@@ -12,6 +12,19 @@ Work accounts for a good portion of my time, of course, but it's not all of who 
 
 I lift weights, I hang with my dogs, I cook and I bake, etc. I love woodworking, and I'm getting my shop back up and running as best I can.
 
+### Dogs
+I have 2 Rottweilers: Bruno, who is my Service Dog, and Heidi. 
+
+This is Bruno, hard at work: 
+
+![Bruno. A large back and tan Rottweiler dog wearing a conference badge](images/IMG_3961.PNG) 
+
+And this is how Heidi works, most of the time: 
+
+![Heidi. A small black and tan Rottweiler dog sleeping with her head on a multi-colord throw pillow on an orange couch](images/IMG_0240.jpeg)
+
+I work with a couple of local Rottweiler Rescue groups, which is how I came to have Heidi. She's a failed foster and my little snuggle doglet. If you want to support Rottweiler Rescue, please donate to [Rottweiler Hearts Rescue](https://www.rottweilerheartsrescue.org) and give as generously as you can. 
+
 ### Work
 I'm a Principal Community Architect for Upstream AI Projects at [Red Hat](https://redhat.com). I work in an actual office (3-4 days a week) and from home the rest of the time. This is a change as I have worked remotely full-time since 2006.
 

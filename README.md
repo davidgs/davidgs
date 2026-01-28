@@ -10,18 +10,14 @@
 ### Non-work
 Work accounts for a good portion of my time, of course, but it's not all of who I am.
 
-I lift weights, I hang with my dogs, etc. I love woodworking, but I don't have a shop right now.
-
-![Me with my family](images/davidgs-pix-3.jpeg)
-
-That big boy I'm holding is my Bruno ❤️
+I lift weights, I hang with my dogs, I cook and I bake, etc. I love woodworking, and I'm getting my shop back up and running as best I can.
 
 ### Work
 I'm a Principal Community Architect for Upstream AI Projects at [Red Hat](https://redhat.com). I work in an actual office (3-4 days a week) and from home the rest of the time. This is a change as I have worked remotely full-time since 2006.
 
 If you're looking for tips on how to be effective as a remote worker, I'm happy to talk to you about it!
 
-I am one of the moderators (AKA `Benevolent Dictators`) for the [DevRel Collective](https://devrelcollective.fun). The DevRel Collective is a group of over 2,500 DevRel professionals on Slack where we talk about ... well, just about everything! I also completely rebuilt their website using [Hugo](https://gohugo.io)
+I am on the Board of Directors and one of the moderators (AKA `Benevolent Dictators`) for the [DevRel Collective](https://devrelcollective.fun). The DevRel Collective is a group of over 2,500 DevRel professionals on Slack where we talk about ... well, just about everything! I also completely rebuilt their website using [Hugo](https://gohugo.io)
 
 ### My career
 
@@ -36,7 +32,7 @@ My Primary goal is to help people. I call it Being of Service™. It's sort of w
 - **Issues:** Feel free to file issues here about any project I'm working on, etc.
 - ~~**Twitter:** Reach out any time on [twitter](https://twitter.com/davidgsIoT) about just about anything. DMs are always open too.~~ Deleted.
 - **Bluesky:** https://bsky.app/profile/davidgs.com 
-- **Slack:** If you're in one of the many Slack communities I'm in, feel free to reach out there.
-- **Email:** Probably the least-reliable way to get me to respond. :-) But sure, [email me](mailto:davidgs@davidgs.com) if you feel absolutely compelled to.
+- **Slack:** If you're in one of the many Slack communities I'm in, feel free to reach out there (I'm usually @davidgs on most Slacks I'm in).
+- **Email:** Probably the least-reliable way to get me to respond. :-) But sure, [email me](mailto:contact@davidgs.com) if you feel absolutely compelled to.
 
 
